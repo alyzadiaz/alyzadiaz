@@ -2,7 +2,7 @@
 
 😄 Pronouns: She/her
 
-🎓 BCOS in Computer Science with a minor in Applied Mathematics from Wentworth Institute of Technology </br>
+🎓 BS in Computer Science with a minor in Applied Mathematics from Wentworth Institute of Technology </br>
 🔭 I’m currently working on a Kotlin Android app for plush collectors </br>
 ⚡ Fun fact: My favorite video game series is Uncharted! 
 
