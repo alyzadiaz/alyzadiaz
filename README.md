@@ -3,10 +3,10 @@
 😄 Pronouns: She/her
 
 🎓 BS in Computer Science with a minor in Applied Mathematics from Wentworth Institute of Technology </br>
-🔭 I’m currently working on a Kotlin Android app for plush collectors </br>
+🔭 I’m currently working on a mock online convenience store app! </br>
 ⚡ Fun fact: My favorite video game series is Uncharted! 
 
-📫 How to reach me: diazrodrigueza@wit.edu or on [LinkedIn](https://www.linkedin.com/in/alyzadiaz)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alyzadiaz)
 
 💻 Visit my [site](https://alyzadiaz.github.io) for a preview of a couple of my projects!
 
